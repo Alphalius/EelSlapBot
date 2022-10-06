@@ -2,7 +2,7 @@
 EelSlapBot is a useless Python programme for automatically slapping a slippery eel.
 
 # Requirements
-<pre>pip install -r requirements.txt\n</pre>
+<pre>pip install -r requirements.txt</pre>
 
 # Setup
  - Make sure you have [Python](https://www.python.org/downloads) installed and PIP is added to PATH!
